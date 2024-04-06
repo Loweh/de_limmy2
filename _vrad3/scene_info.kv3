@@ -1,0 +1,634 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	instances = 
+	[
+		{
+			mesh = 0
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 1
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 2
+			material = resource_name:"materials/de_overpass/construction/plywood_1.vmat"
+			flags = 263
+		},
+		{
+			mesh = 3
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 4
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 5
+			material = resource_name:"materials/dev/dev_measuregeneric01b.vmat"
+			flags = 263
+		},
+		{
+			mesh = 6
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 7
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 8
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 9
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 10
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 11
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 12
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 13
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 14
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 15
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 16
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 17
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 18
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 19
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 20
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 21
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 22
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 23
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 24
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 25
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 26
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 27
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 28
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 29
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 30
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 31
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 32
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 33
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 34
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 35
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 36
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 37
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 38
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 39
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 40
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 41
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 42
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 43
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 44
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 45
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 46
+			material = resource_name:"materials/dev/dev_measuregeneric01c.vmat"
+			flags = 263
+		},
+		{
+			mesh = 47
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1928.0,
+				0.0, 1.0, 0.0, -1744.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 47
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1928.0,
+				0.0, 1.0, 0.0, -1488.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 47
+			transform = 
+			[
+				0.866025, -0.5, 0.0, -1928.0,
+				0.5, 0.866025, 0.0, -1232.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 48
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1928.0,
+				0.0, 1.0, 0.0, -1744.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 48
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1928.0,
+				0.0, 1.0, 0.0, -1488.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 48
+			transform = 
+			[
+				0.866025, -0.5, 0.0, -1928.0,
+				0.5, 0.866025, 0.0, -1232.0,
+				0.0, 0.0, 1.0, 112.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 49
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1090.981567,
+				0.0, 1.0, 0.0, -1273.197021,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 50
+			transform = 
+			[
+				1.0, 0.0, 0.0, -776.0,
+				0.0, 1.0, 0.0, -1500.0,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_003.vmat"
+			flags = 263
+		},
+		{
+			mesh = 50
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1096.0,
+				0.0, 1.0, 0.0, -1208.0,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_003.vmat"
+			flags = 263
+		},
+		{
+			mesh = 51
+			transform = 
+			[
+				1.0, 0.0, 0.0, -1096.0,
+				0.0, 1.0, 0.0, -1652.0,
+				0.0, 0.0, 1.0, 1496.0,
+			]
+			material = resource_name:"materials/models/props/de_vertigo/crane_construction01.vmat"
+			flags = 263
+		},
+		{
+			mesh = 52
+			transform = 
+			[
+				0.819152, 0.573577, 0.0, -1087.610107,
+				-0.573577, 0.819152, 0.0, -1656.272949,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/hr_vertigo/vertigo_crane/crane_base_color.vmat"
+			flags = 263
+		},
+		{
+			mesh = 53
+			transform = 
+			[
+				0.819152, 0.573577, 0.0, -1089.366089,
+				-0.573577, 0.819152, 0.0, -1652.31958,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/hr_vertigo/vertigo_crane/crane_color.vmat"
+			flags = 263
+		},
+		{
+			mesh = 54
+			transform = 
+			[
+				0.819152, 0.573577, 0.0, -1088.0,
+				-0.573577, 0.819152, 0.0, -1656.0,
+				0.0, 0.0, 1.0, 0.0,
+			]
+			material = resource_name:"materials/models/props/hr_vertigo/vertigo_crane/crane_concrete_slabs_color.vmat"
+			flags = 263
+		},
+		{
+			mesh = 55
+			transform = 
+			[
+				-1.0, 0.0, 0.0, -1612.0,
+				-0.0, -1.0, 0.0, -1156.0,
+				0.0, 0.0, 1.0, 100.0,
+			]
+			material = resource_name:"materials/models/props_lighting/light_shop.vmat"
+			flags = 263
+		},
+		{
+			mesh = 55
+			transform = 
+			[
+				0.000001, 1.0, 0.0, -1401.353394,
+				-1.0, 0.000001, 0.0, -1204.0,
+				0.0, 0.0, 1.0, 96.983704,
+			]
+			material = resource_name:"materials/models/props_lighting/light_shop.vmat"
+			flags = 263
+		},
+		{
+			mesh = 55
+			transform = 
+			[
+				0.000001, 1.0, 0.0, -1672.0,
+				-1.0, 0.000001, 0.0, -956.0,
+				0.0, 0.0, 1.0, 96.983688,
+			]
+			material = resource_name:"materials/models/props_lighting/light_shop.vmat"
+			flags = 263
+		},
+		{
+			mesh = 56
+			transform = 
+			[
+				-0.0, -1.0, 0.0, -1354.0,
+				1.0, -0.0, 0.0, -1072.0,
+				0.0, 0.0, 1.0, 110.0,
+			]
+			material = resource_name:"materials/models/props_urban/fence001.vmat"
+			flags = 263
+		},
+		{
+			mesh = 57
+			transform = 
+			[
+				-0.0, -1.0, 0.0, -1416.794312,
+				1.0, -0.0, 0.0, -1072.0,
+				0.0, 0.0, 1.0, 110.0,
+			]
+			material = resource_name:"materials/models/props_urban/fence001.vmat"
+			flags = 263
+		},
+	]
+	ibl = 
+	{
+		uniform_color = [ 1.0, 1.0, 1.0 ]
+		bounce = [ 0.0, 0.0, 0.0, 1.0 ]
+		bounce_scale = 1.0
+		sun_light_min_brightness = 32.0
+	}
+	lights = 
+	[
+		{
+			barn = 
+			{
+				m_mToClipSpace = 
+				[
+					0.0, -0.000061, 0.0, 0.0,
+					0.0, 0.0, 0.000061, 0.0,
+					0.000031, 0.0, 0.0, 0.5,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_mFromClipSpace = 
+				[
+					0.0, 0.0, 32768.0, -16384.0,
+					-16384.0, 0.0, 0.0, 0.0,
+					0.0, 16384.0, 0.0, 0.0,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_vNearPlane = [ 1.0, 0.0, 0.0, -16384.0 ]
+				m_vLightPosition = [ -0.148452, -0.212012, 0.965926, 0.0 ]
+				m_vInnerRadius = [ 1.0, 1.0 ]
+				m_flShape = 0.0
+				m_vSkirt = [ 0.0, 0.0 ]
+				m_vColor = [ 1.0, 1.0, 1.0 ]
+				m_nCookie = -1
+				m_vDistanceFade = [ 1.0, 0.0 ]
+				m_qOrientation = [ -0.281095, 0.539978, 0.36633, 0.703713 ]
+				m_vAngleFade = [ 1.0, 0.0, 0.0 ]
+				m_nLuminaireType = "DISK"
+				m_flLightColorToRadiance = 13130.558594
+				m_bLightInsideFrustum = false
+				m_bSphericalCookie = false
+				m_Luminaire = 
+				{
+					m_vCenter = [ -0.148452, -0.212012, 0.965926 ]
+					m_ScaledTangents = 
+					[
+						[ -0.007149, 0.005006, 0.0 ],
+						[ 0.004835, 0.006905, 0.002259 ],
+					]
+					m_vNormal = [ 0.148453, 0.212012, -0.965926 ]
+				}
+			}
+			path_trace_light_flags = 15
+			baked_shadow_index = 0
+			baked_shadow_light_id = 0
+		},
+		{
+			barn = 
+			{
+				m_mToClipSpace = 
+				[
+					0.0, 0.0, 0.003906, -0.34375,
+					0.003906, 0.0, 0.0, 6.296875,
+					0.0, -0.001953, 0.0, -1.757812,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_mFromClipSpace = 
+				[
+					0.0, 255.999985, 0.00009, -1612.0,
+					0.0, 0.000045, -511.999969, -900.0,
+					256.0, 0.0, 0.0, 88.0,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_vNearPlane = [ 0.0, -1.0, 0.0, 899.999634 ]
+				m_vLightPosition = [ -1612.0, -1156.0, 88.0, 1.0 ]
+				m_vInnerRadius = [ 1.0, 1.0 ]
+				m_flShape = 0.0
+				m_vSkirt = [ 0.0, 0.0 ]
+				m_vColor = [ 2958.137939, 3016.080811, 3500.0 ]
+				m_nCookie = -1
+				m_vDistanceFade = [ 9.999998, -0.039062 ]
+				m_qOrientation = [ 0.0, 0.0, -0.707107, 0.707107 ]
+				m_vAngleFade = [ 1.0, 0.0, 0.0 ]
+				m_nLuminaireType = "SPHERE"
+				m_flLightColorToRadiance = 0.25
+				m_bLightInsideFrustum = true
+				m_bSphericalCookie = true
+				m_Luminaire = 
+				{
+					m_vPosition = [ -1612.0, -1156.0, 88.0 ]
+					m_flRadius = 2.0
+				}
+			}
+			path_trace_light_flags = 15
+			baked_shadow_index = -1
+			illumination_volume = 
+			{
+				m_qOrientation = [ 0.0, 0.0, -0.043619, 0.999048 ]
+				m_vCenter = [ -1548.27063, -1076.619141, 59.998814 ]
+				m_vExtent = [ 199.467957, 168.176453, 60.066479 ]
+			}
+		},
+		{
+			barn = 
+			{
+				m_mToClipSpace = 
+				[
+					0.0, 0.0, 0.003906, -0.331968,
+					0.0, 0.003906, 0.0, 4.703125,
+					0.001953, 0.0, 0.0, 3.237018,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_mFromClipSpace = 
+				[
+					0.0, 0.0, 512.0, -1657.353394,
+					0.0, 256.0, 0.0, -1204.0,
+					256.0, 0.0, 0.0, 84.983704,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_vNearPlane = [ 1.0, 0.0, 0.0, -1657.353394 ]
+				m_vLightPosition = [ -1401.353394, -1204.0, 84.983704, 1.0 ]
+				m_vInnerRadius = [ 1.0, 1.0 ]
+				m_flShape = 0.0
+				m_vSkirt = [ 0.0, 0.0 ]
+				m_vColor = [ 2958.137939, 3016.080811, 3500.0 ]
+				m_nCookie = -1
+				m_vDistanceFade = [ 9.999998, -0.039062 ]
+				m_qOrientation = [ 0.0, 0.0, 0.0, 1.0 ]
+				m_vAngleFade = [ 1.0, 0.0, 0.0 ]
+				m_nLuminaireType = "SPHERE"
+				m_flLightColorToRadiance = 0.25
+				m_bLightInsideFrustum = true
+				m_bSphericalCookie = true
+				m_Luminaire = 
+				{
+					m_vPosition = [ -1401.353394, -1204.0, 84.983704 ]
+					m_flRadius = 2.0
+				}
+			}
+			path_trace_light_flags = 15
+			baked_shadow_index = -1
+			illumination_volume = 
+			{
+				m_qOrientation = [ 0.0, 0.0, 0.0, 1.0 ]
+				m_vCenter = [ -1475.947144, -1274.991577, 59.997543 ]
+				m_vExtent = [ 181.4375, 185.070435, 60.068062 ]
+			}
+		},
+		{
+			barn = 
+			{
+				m_mToClipSpace = 
+				[
+					0.0, 0.0, 0.003906, -0.331968,
+					0.0, 0.003906, 0.0, 3.734375,
+					0.001953, 0.0, 0.0, 3.765625,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_mFromClipSpace = 
+				[
+					0.0, 0.0, 512.0, -1928.0,
+					0.0, 256.0, 0.0, -956.0,
+					256.0, 0.0, 0.0, 84.983688,
+					0.0, 0.0, 0.0, 1.0,
+				]
+				m_vNearPlane = [ 1.0, 0.0, 0.0, -1928.0 ]
+				m_vLightPosition = [ -1672.0, -956.0, 84.983688, 1.0 ]
+				m_vInnerRadius = [ 1.0, 1.0 ]
+				m_flShape = 0.0
+				m_vSkirt = [ 0.0, 0.0 ]
+				m_vColor = [ 2958.137939, 3016.080811, 3500.0 ]
+				m_nCookie = -1
+				m_vDistanceFade = [ 9.999998, -0.039062 ]
+				m_qOrientation = [ 0.0, 0.0, 0.0, 1.0 ]
+				m_vAngleFade = [ 1.0, 0.0, 0.0 ]
+				m_nLuminaireType = "SPHERE"
+				m_flLightColorToRadiance = 0.25
+				m_bLightInsideFrustum = true
+				m_bSphericalCookie = true
+				m_Luminaire = 
+				{
+					m_vPosition = [ -1672.0, -956.0, 84.983688 ]
+					m_flRadius = 2.0
+				}
+			}
+			path_trace_light_flags = 15
+			baked_shadow_index = -1
+			illumination_volume = 
+			{
+				m_qOrientation = [ 0.0, 0.0, 0.026177, 0.999657 ]
+				m_vCenter = [ -1659.512329, -955.349426, 59.999069 ]
+				m_vExtent = [ 94.765503, 256.056854, 60.065643 ]
+			}
+		},
+	]
+	mesh_file = "scene_meshes.dmx"
+}
